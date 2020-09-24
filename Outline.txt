@@ -1,0 +1,107 @@
+The Objective
+    Problem:
+        1) Does stock market value correlate with other economic metrics
+        in assessing economic health?
+            How can the natural (or background) value change over time be removed from calculation?
+                Ex: Scientific advancement, population growth, etc.
+                    Is there "natural value change" or is everything considered dependent?
+                    If the advancement occurred globally can it be removed from consideration as "Background" value changes?
+            Metrics:
+                GDP:Gross Domestic Product measures the value of goods
+                    and services produced by a nation.
+                GNP:Gross National Product measures the value of goods 
+                    and services produced by a nation (GDP) and income 
+                    from foreign investments.
+                Total Spending:"The relationship between production and 
+                    spending is a quintessential chicken-and-egg debate in 
+                    economics. Most economists agree that total spending, 
+                    adjusted for inflation, is a byproduct of productive output.
+                    They disagree, however, if increased spending is an 
+                    indication of growth."
+                    Source : 
+                        https://www.investopedia.com/ask/answers/032515/what-are-best-measurements-economic-growth.asp#:~:text=Key%20Takeaways,employed%20to%20assess%20economic%20growth.&text=Gross%20National%20Product%20measures%20the,and%20income%20from%20foreign%20investments.
+                Capacity Utilization Rate:What Is the Capacity Utilization Rate?
+                    The capacity utilization rate measures the proportion of potential 
+                    economic output that is actually realized. Displayed as a percentage, 
+                    the capacity utilization level provides insight into the overall 
+                    slack that is in an economy or a firm at a given point in time. 
+                    The formula for finding the rate is:
+
+                    (Actual Output / Potential Output ) x 100 = Capacity Utilization Rate
+
+                    The capacity utilization rate is an important operational metric 
+                    for businesses, and it's also a key economic indicator when applied 
+                    to aggregate productive capacity. A company with less than 100% 
+                    utilization can theoretically increase production without incurring 
+                    expensive overhead costs associated with purchasing new equipment or 
+                    property. Economies with ratios of under 100% can absorb significant 
+                    increases in production without pushing past previous highs. The concept 
+                    of capacity utilization is best applied to the production of physical 
+                    goods, which are simpler to quantify.
+                    Source : 
+                        https://www.investopedia.com/terms/c/capacityutilizationrate.asp
+                Solow Residual: The Solow residual is the portion of an economy’s
+                    output growth that cannot be attributed to the accumulation of capital 
+                    and labor, the factors of production. It is a measure of productivity 
+                    growth that is usually referred to as total factor productivity (TFP).
+                    Source:
+                        https://www.investopedia.com/terms/s/solow-residual.asp
+                Unemployment Rate
+                Productivity:
+                    Production per time unit
+                Efficiency:
+                    Production per input cost
+                Spending: GDP? 
+                Standard of Living: Often measured with "Per Capita GDP"
+                    Per capita GDP provides a quick, rough estimate of the total amount of 
+                    goods and services available per person. While numerous, more complex, 
+                    and nuanced metrics of the standard of living have been devised, many of 
+                    them correlate highly with per capita GDP.
+                    Source:
+                        https://www.investopedia.com/terms/s/standard-of-living.asp
+                Human Development Index (HDI):
+                    How Is the HDI Measured?
+
+                    The HDI is a summary measurement of basic achievement levels in human 
+                    development. The computed HDI of a country is an average of indexes of each 
+                    of the life aspects that are examined: knowledge and understanding, a long 
+                    and healthy life, and an acceptable standard of living. Each of the four 
+                    components is normalized to scale between 0 and 1, and then the geometric 
+                    mean of the three components is calculated.
+
+                    The health aspect of the HDI is measured by the life expectancy, as calculated 
+                    at the time of birth, in each country, normalized so that this component is equal 
+                    to 0 when life expectancy is 20 and equal to 1 when life expectancy is 85.
+
+                    Education is measured on two levels: the mean years of schooling for residents of a 
+                    country and the expected years of schooling that a child has at the average age for 
+                    starting school. These are each separately normalized so that 15 mean years of schooling 
+                    equals one, and 18 years of expected schooling equals one, and a simple mean of the two 
+                    is calculated.
+
+                    The metric chosen to represent the standard of living is GNI per capita based on purchasing 
+                    power parity (PPP), a common metric used to reflect average income. The standard of living is 
+                    normalized so that it is equal to 1 when GNI per capita is $75,000 and equal to 0 when GNI per 
+                    capita is $100. The final Human Development Index score for each country is calculated as a 
+                    geometric mean of the three components by taking the cube root of the product of the normalized 
+                    component scores.
+                    Source:
+                        https://www.investopedia.com/terms/h/human-development-index-hdi.asp
+                        HDI heavily criticized as redundant for being heavily related to GNI and GDP per capita values
+                Quality of Life: Intangible aspects of "standard of living"; not revelevantly quantifiable?
+        2) How much do changes in the taxation of capital gains affect capital investments?
+
+
+Importing Data
+
+Data Exploration
+
+Baseline Modeling
+
+Secondary Modeling
+
+Communicating Results
+
+Conclusion
+
+Resources
