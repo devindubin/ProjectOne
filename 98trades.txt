@@ -1,118 +1,135 @@
- Construction                                                                                60
-   Utilities                                                                                   60
-    Specialty trade contractors                                                                60
-     Fabricated metal product manufacturing                                                    60
-    Support activities for mining                                                              60
-   Accommodation and food services                                                             60
-    Lessors of nonfinancial intangible assets (except copyrighted works)                       60
-   Arts, entertainment, and recreation                                                         60
-    Gasoline stations                                                                          60
-     Leather and allied product manufacturing                                                  60
-    Motor vehicle and parts dealers                                                            60
-   Wholesale trade                                                                             60
-    Waste management and remediation services                                                  60
-    Data processing, hosting, and related services                                             60
-    Durable goods manufacturing                                                                60
-     Plastics and rubber products manufacturing                                                60
-    Local government                                                                           60
-    Furniture and home furnishings stores                                                      60
-   Finance and insurance                                                                       60
-    Museums, historical sites, and similar institutions                                        60
-     Computer and electronic product manufacturing                                             60
-    Repair and maintenance                                                                     60
-    Miscellaneous store retailers                                                              60
-   Mining, quarrying, and oil and gas extraction                                               60
-  Private nonfarm employment                                                                   60
-   Military                                                                                    60
-    Publishing industries (except Internet)                                                    60
-    Ambulatory health care services                                                            60
-    Internet publishing and broadcasting 3/                                                    60
- Wage and salary employment                                                                    60
-Total employment (number of jobs)                                                              60
-     Apparel manufacturing                                                                     60
-    Broadcasting (except Internet)                                                             60
-    Air transportation                                                                         60
-     Machinery manufacturing                                                                   60
-    Health and personal care stores                                                            60
-   Administrative and support and waste management and remediation services                    60
-    Scenic and sightseeing transportation                                                      60
-    Motion picture and sound recording industries                                              60
-    Food and beverage stores                                                                   60
-   Forestry, fishing, and related activities                                                   60
-    Hospitals                                                                                  60
+Accommodation and food services
+    Accommodation
+
+Arts, entertainment, and recreation
+    Amusement, gambling, and recreation industries
+    Food services and drinking places
+    Motion picture and sound recording industries
+    Museums, historical sites, and similar institutions
+    Scenic and sightseeing transportation
+
+ Construction
+    Construction of buildings
+    Heavy and civil engineering construction
+    Specialty trade contractors
+ 
+ financial
+    Credit intermediation and related activities
+    Finance and insurance
+    Funds, trusts, and other financial vehicles
+    Insurance carriers and related activities
+    Lessors of nonfinancial intangible assets (except copyrighted works)
+    Monetary Authorities-central bank
+    Securities, commodity contracts, and other financial investments and related activities
+
+ General merchandise stores
+    Building material and garden equipment and supplies dealers
+    Clothing and clothing accessories stores
+    Electronics and appliance stores
+    Food and beverage stores
+    Furniture and home furnishings stores
+    Gasoline stations
+    Health and personal care stores
+    Miscellaneous store retailers
+    Motor vehicle and parts dealers
+    Nonstore retailers
+    Repair and maintenance
+    Retail trade
+    Sporting goods, hobby, musical instrument, and book stores
+    Wholesale trade
+    
+Government and government enterprises
+    Federal civilian
+    Local government
+    Military
+    Other services (except government and government enterprises)
+    State government
+    State and local
+    
+ Health care
+    Ambulatory health care services
+    Health care and social assistance
+    Hospitals
+                 
  Nonfarm employment                                                                            60
-    Administrative and support services                                                        60
+    Administrative and support services
+    Educational services
+    Management of companies and enterprises
+    Professional, scientific, and technical services
+    Social assistance
     Religious, grantmaking, civic, professional, and similar organizations                     60
-    Construction of buildings                                                                  60
-   Health care and social assistance                                                           60
- Farm employment                                                                               60
-    Amusement, gambling, and recreation industries                                             60
-    Nondurable goods manufacturing                                                             60
-    Personal and laundry services                                                              60
-    Pipeline transportation                                                                    60
-    Sporting goods, hobby, musical instrument, and book stores                                 60
-    State government                                                                           60
-     Miscellaneous manufacturing                                                               60
-    Other information services 3/                                                              60
-  Government and government enterprises                                                        60
-   Educational services                                                                        60
-     Textile product mills                                                                     60
-     Textile mills                                                                             60
-     Motor vehicles, bodies and trailers, and parts manufacturing                              60
-    Funds, trusts, and other financial vehicles                                                60
-    Oil and gas extraction                                                                     60
-   Information                                                                                 60
-    Forestry and logging                                                                       60
-     Furniture and related product manufacturing                                               60
-    Heavy and civil engineering construction                                                   60
-    Transit and ground passenger transportation                                                60
-    Securities, commodity contracts, and other financial investments and related activities    60
-    Electronics and appliance stores                                                           60
-     Primary metal manufacturing                                                               60
-    Rental and leasing services                                                                60
-    Insurance carriers and related activities                                                  60
-     Chemical manufacturing                                                                    60
-    Nonstore retailers                                                                         60
-    Monetary Authorities-central bank                                                          60
-    Truck transportation                                                                       60
-  Farm proprietors employment                                                                  60
-    Food services and drinking places                                                          60
-    Social assistance                                                                          60
-     Electrical equipment, appliance, and component manufacturing                              60
-    Couriers and messengers                                                                    60
-     Food manufacturing                                                                        60
- Proprietors employment                                                                        60
-   Federal civilian                                                                            60
-    Fishing, hunting and trapping                                                              60
-    Real estate                                                                                60
-    Rail transportation                                                                        60
-     Wood product manufacturing                                                                60
-   Other services (except government and government enterprises)                               60
-   Management of companies and enterprises                                                     60
-    Support activities for agriculture and forestry                                            60
-    Mining (except oil and gas)                                                                60
-    Warehousing and storage                                                                    60
-    Accommodation                                                                              60
-     Printing and related support activities                                                   60
-   Professional, scientific, and technical services                                            60
-     Beverage and tobacco product manufacturing                                                60
-    Private households                                                                         60
-   Manufacturing                                                                               60
-    Building material and garden equipment and supplies dealers                                60
-     Nonmetallic mineral product manufacturing                                                 60
+    
+  Information                                                                                 60
+    Broadcasting (except Internet)
+    Couriers and messengers                                                                           60
+    Data processing, hosting, and related services
+    Internet publishing and broadcasting 3/
+    Printing and related support activities
+    Publishing industries (except Internet)
+    Other information services 3/                                               60
+     
+   Manufacturing
+    Apparel manufacturing
+    Beverage and tobacco product manufacturing
+    Chemical manufacturing
+    Computer and electronic product manufacturing
+    Durable goods manufacturing
+    Electrical equipment, appliance, and component manufacturing
+    Fabricated metal product manufacturing
+    Food manufacturing
+    Furniture and related product manufacturing
+    Leather and allied product manufacturing
+    Machinery manufacturing
+    Miscellaneous manufacturing
+    Motor vehicles, bodies and trailers, and parts manufacturing
+    Nondurable goods manufacturing
+    Nonmetallic mineral product manufacturing
+    Other transportation equipment manufacturing
+    Paper manufacturing 
+    Petroleum and coal products manufacturing
+    Plastics and rubber products manufacturing
+    Primary metal manufacturing
+    Textile product mills #  Textile mills
+    Wood product manufacturing
+    
+Primary Production
+    Farm employment
+    Fishing, hunting and trapping
+    Forestry and logging
+    Forestry, fishing, and related activities
+    Mining, quarrying, and oil and gas extraction
+    Mining (except oil and gas)
+    Oil and gas extraction
+    Support activities for mining
+    Support activities for agriculture and forestry
+    
+Private households
+    Personal and laundry services
+    Private nonfarm employment
+   
+Real estate
+    Farm proprietors employment
+    Nonfarm proprietors employment
+    Nursing and residential care facilities
+    Proprietors employment
+    Real estate and rental and leasing
+    Rental and leasing services
+    Warehousing and storage
+    
+Transportation
+    Air transportation
+    Rail transportation                                60
+    Support activities for transportation
+    Transit and ground passenger transportation
+    Transportation and warehousing
+    Truck transportation                                                  60
     Water transportation                                                                       60
     Performing arts, spectator sports, and related industries                                  60
-    Support activities for transportation                                                      60
-    Nursing and residential care facilities                                                    60
-  Nonfarm proprietors employment 2/                                                            60
-   Real estate and rental and leasing                                                          60
-   Retail trade                                                                                60
-   Transportation and warehousing                                                              60
-    Telecommunications                                                                         60
-    Credit intermediation and related activities                                               60
-     Paper manufacturing                                                                       60
-   State and local                                                                             60
-     Other transportation equipment manufacturing                                              60
-    Clothing and clothing accessories stores                                                   60
-    General merchandise stores                                                                 60
-     Petroleum and coal products manufacturing
+   
+Utilities
+    Pipeline transportation
+    Telecommunications
+ 
+ Waste management and remediation services
+    Administrative and support and waste management and remediation services                                                                                60
+         
