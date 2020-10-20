@@ -1,0 +1,15 @@
+Series title:        (Seas) Employment Level
+
+Labor force status:  Employed
+
+Units:  Thousands of Persons, Seasonally Adjusted
+
+Years: 1968
+Frequency:  Monthly
+
+
+The civilian noninstitutional population is defined as: persons 16 years of age and older residing in the 50 states and the District of Columbia, who are not inmates of institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS12000000
