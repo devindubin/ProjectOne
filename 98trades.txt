@@ -6,6 +6,7 @@ Arts, entertainment, and recreation
     Food services and drinking places
     Motion picture and sound recording industries
     Museums, historical sites, and similar institutions
+    Performing arts, spectator sports, and related industries
     Scenic and sightseeing transportation
 
  Construction
@@ -42,7 +43,6 @@ Government and government enterprises
     Federal civilian
     Local government
     Military
-    Other services (except government and government enterprises)
     State government
     State and local
     
@@ -55,14 +55,14 @@ Government and government enterprises
     Administrative and support services
     Educational services
     Management of companies and enterprises
+    Other services (except government and government enterprises)
     Professional, scientific, and technical services
     Social assistance
     Religious, grantmaking, civic, professional, and similar organizations                     60
     
   Information                                                                                 60
     Broadcasting (except Internet)
-    Couriers and messengers                                                                           60
-    Data processing, hosting, and related services
+    Couriers and messengers                                                                           Data processing, hosting, and related services
     Internet publishing and broadcasting 3/
     Printing and related support activities
     Publishing industries (except Internet)
@@ -124,8 +124,7 @@ Transportation
     Transportation and warehousing
     Truck transportation                                                  60
     Water transportation                                                                       60
-    Performing arts, spectator sports, and related industries                                  60
-   
+    
 Utilities
     Pipeline transportation
     Telecommunications
